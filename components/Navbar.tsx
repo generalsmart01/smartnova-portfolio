@@ -33,10 +33,10 @@ export default function Navbar() {
                         <Image
                             src={currentTheme === 'dark' ? '/logo-darkmode.png' : '/logo-lightmode.png'}
                             alt="Generalsmart01"
-                            width={120}
-                            height={40}
+                            width={200}
+                            height={100}
                             priority
-                            className="h-8 w-auto"
+                            className="h-16 w-auto"
                         />
                     </Link>
 
