@@ -9,7 +9,7 @@ const projects = [
         title: "Properties Admin Dashboard",
         description: "A comprehensive dashboard for managing properties, blogs, and analytics. Built with Next.js and Recharts.",
         tags: ["Next.js", "TypeScript", "Tailwind CSS", "Recharts"],
-        links: { demo: "#", repo: "#" },
+        links: { demo: "https://nova-admin-dashboard-eight.vercel.app", repo: "https://github.com/generalsmart01/nova-admin-dashboard" },
         color: "from-green-500 to-gold-500",
         img: "/projects/property-admin.png",
     },

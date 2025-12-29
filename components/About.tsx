@@ -25,7 +25,7 @@ export default function About() {
                         <h2 className="text-3xl md:text-4xl font-bold mb-6">About Me</h2>
                         <p className="text-lg text-muted-foreground mb-6">
                             I'm a passionate Frontend Developer with a keen eye for design and a drive for creating seamless digital experiences.
-                            With over 5 years of experience, I bridge the gap between design and engineering.
+                            With over 2 years of experience, I bridge the gap between design and engineering.
                         </p>
                         <p className="text-lg text-muted-foreground mb-8">
                             My approach is user-centric, focusing on performance, accessibility, and clean code.
