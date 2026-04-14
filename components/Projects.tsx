@@ -13,14 +13,14 @@ const projects = [
         color: "from-green-500 to-gold-500",
         img: "/projects/property-admin.png",
     },
-    {
-        title: "SaaS Landing Page",
-        description: "High-conversion landing page with modern animations and pricing sections.",
-        tags: ["React", "Framer Motion", "Stripe"],
-        links: { demo: "#", repo: "#" },
-        color: "from-purple-500 to-pink-500",
-        img: "/projects/saas-landing.png",
-    },
+    // {
+    //     title: "SaaS Landing Page",
+    //     description: "High-conversion landing page with modern animations and pricing sections.",
+    //     tags: ["React", "Framer Motion", "Stripe"],
+    //     links: { demo: "#", repo: "#" },
+    //     color: "from-purple-500 to-pink-500",
+    //     img: "/projects/saas-landing.png",
+    // },
     {
         title: "Task Management App",
         description: "Collaborative task manager with real-time updates and drag-and-drop interface.",
@@ -29,6 +29,15 @@ const projects = [
         color: "from-orange-500 to-red-500",
         img: "/projects/task-management.png",
     },
+    {
+        title: "Frontend Resilience Lab",
+        description:
+            "A developer-focused dashboard simulation platform for building and testing resilient UI states. It helps teams validate loading, error, empty, offline, and success experiences, test API behavior, simulate network conditions, and share reusable scenario presets before shipping.",
+        tags: ["React", "TypeScript", "Tailwind CSS", "Framer Motion", "shadcn/ui"],
+        links: { demo: "https://frontendresilience-lab.vercel.app/", repo: "https://github.com/generalsmart01/frontendresilience-lab" },
+        color: "from-blue-500 to-cyan-500",
+        img: "/projects/frontend-resilient-lab.png",
+    }
 ];
 
 export default function Projects() {
