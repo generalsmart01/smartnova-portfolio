@@ -36,7 +36,7 @@ const projects = [
         tags: ["React", "TypeScript", "Tailwind CSS", "Framer Motion", "shadcn/ui"],
         links: { demo: "https://frontendresilience-lab.vercel.app/", repo: "https://github.com/generalsmart01/frontendresilience-lab" },
         color: "from-blue-500 to-cyan-500",
-        img: "/projects/frontend-resilient-lab.png",
+        img: "/projects/frontend-resilience-lab.png",
     }
 ];
 
