@@ -21,14 +21,14 @@ const projects = [
     //     color: "from-purple-500 to-pink-500",
     //     img: "/projects/saas-landing.png",
     // },
-    {
-        title: "Task Management App",
-        description: "Collaborative task manager with real-time updates and drag-and-drop interface.",
-        tags: ["Next.js", "Supabase", "dnd-kit"],
-        links: { demo: "#", repo: "#" },
-        color: "from-orange-500 to-red-500",
-        img: "/projects/task-management.png",
-    },
+    // {
+    //     title: "Task Management App",
+    //     description: "Collaborative task manager with real-time updates and drag-and-drop interface.",
+    //     tags: ["Next.js", "Supabase", "dnd-kit"],
+    //     links: { demo: "#", repo: "#" },
+    //     color: "from-orange-500 to-red-500",
+    //     img: "/projects/task-management.png",
+    // },
     {
         title: "Frontend Resilience Lab",
         description:
